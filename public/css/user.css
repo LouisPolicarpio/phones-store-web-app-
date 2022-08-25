@@ -1,0 +1,172 @@
+.navbar{
+    background-color: #223375;
+    color: white;
+}
+
+.navbar-item{
+    margin: 20px;
+}
+
+
+.navbar-brand{
+    color: white;
+}
+
+.nav-item{
+    color: white;
+    margin: 10px;
+}
+
+#userTitle{
+    margin-top: 20px;
+
+}
+
+#editProfileBtn{
+    margin: 10px;
+    background-color: white;
+    transition-duration: 0.4s;
+    border-radius: 12px;
+    font-family: "Helvetica";
+    padding: 7px;
+    border-color: #112c86;
+
+}
+
+#changePasswordBtn{
+    margin: 10px;
+    background-color: white;
+    transition-duration: 0.4s;
+    border-radius: 12px;
+    font-family: "Helvetica";
+    padding: 7px;
+    border-color: #112c86;
+
+}
+
+#manageListingsBtn{
+    margin: 10px;
+    background-color: white;
+    transition-duration: 0.4s;
+    border-radius: 12px;
+    font-family: "Helvetica";
+    padding: 7px;
+    border-color: #112c86;
+
+}
+
+#viewCommentsBtn{
+    margin: 10px;
+    background-color: white;
+    transition-duration: 0.4s;
+    border-radius: 12px;
+    font-family: "Helvetica";
+    padding: 7px;
+    border-color: #112c86;
+
+}
+
+.editProfileState{
+    padding: 30px;
+}
+
+.changePasswordState{
+    padding: 30px;
+}
+
+.manageListingsState{
+    padding: 30px;
+}
+
+.viewCommentsState{
+    padding: 30px;
+}
+
+#addListing{
+    margin: 10px;
+    background-color: white;
+    transition-duration: 0.4s;
+    border-radius: 12px;
+    font-family: "Helvetica";
+    padding: 7px;
+    border-color: #112c86;
+}
+
+.submitBtn{
+    margin: 10px;
+    background-color: white;
+    transition-duration: 0.4s;
+    border-radius: 12px;
+    font-family: "Helvetica";
+    padding: 7px;
+    border-color: #112c86;
+}
+
+.card{
+    display: inline-block;
+    padding: 10px;
+    margin: 20px;
+    text-align: center;
+    border-radius: 12px;
+    box-shadow: 3px 10px 31px 4px rgba(0,0,0,0.21);
+}
+
+.itembtn {
+    background-color: white;
+    transition-duration: 0.4s;
+    border-radius: 12px;
+    font-family: "Helvetica";
+    padding: 7px;
+    border-color: #112c86;
+
+  }
+
+  .form-select{
+    margin: 10px;
+}
+
+.nav-item{
+    margin: 10px;
+    margin-right: 50px;
+
+}
+
+.submitBtn{
+    margin: 10px;
+}
+
+
+.enableBtn {
+    background-color: white;
+    transition-duration: 0.4s;
+    border-radius: 12px;
+    font-family: "Helvetica";
+    padding: 7px;
+    border-color: #112c86;
+    margin: 3px;
+
+  }
+
+  .disableBtn {
+    background-color: white;
+    transition-duration: 0.4s;
+    border-radius: 12px;
+    font-family: "Helvetica";
+    padding: 7px;
+    border-color: #112c86;
+    margin: 3px;
+
+  }
+
+  .removeBtn {
+    background-color: white;
+    transition-duration: 0.4s;
+    border-radius: 12px;
+    font-family: "Helvetica";
+    padding: 7px;
+    border-color: #112c86;
+    margin: 1px;
+
+  }
+
+  

@@ -1,0 +1,55 @@
+.form-outline {
+    padding: 5%;
+}
+
+.navbar {
+    background-color: #223375;
+    color: white;
+}
+
+.navbar-item {
+    margin: 20px;
+}
+
+
+.navbar-brand {
+    color: white;
+}
+
+.body{
+    padding: 40px;
+}
+
+.checkoutList{
+    padding-bottom: 10%;
+}
+
+.total{
+    text-align: center;
+}
+
+.confirm {
+    text-align: center;
+}
+
+h5{
+    margin-top: 4%;
+    background-color: #d5dcf7;
+    padding: 15px;
+}
+
+button{
+    background-color: white;
+    transition-duration: 0.4s;
+    border-radius: 12px;
+    font-family: "Helvetica";
+    padding: 5px;
+    border-color: #112c86;
+    margin: 5px;
+
+}
+
+button:hover {
+    background-color: #112c86;
+    color: white;
+}
