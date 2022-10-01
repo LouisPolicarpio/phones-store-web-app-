@@ -1,0 +1,33 @@
+{
+    "_id": "1",
+    "title": "phone title",
+    "brand": "Huawei",
+    "image": "/phone_default_images/Huawei.jpeg",
+    "stock": 1,
+    "seller": "5f5237a4c1beb1523fa3db11",
+    "price": 127.95,
+    "reviews": [
+        {
+            "reviewer": "62834219f39fdd81090b1a32",
+            "rating": 1,
+            "comment": "this is a phone"
+        },
+        {
+            "reviewer": "62834219f39fdd81090b1a32",
+            "rating": 2,
+            "comment": "this sucks"
+        },
+        {
+            "reviewer": "62834219f39fdd81090b1a32",
+            "rating": 3,
+            "comment": "this is a long comment this is a long comment this is a long comment this is a long comment this is a long comment this is a long comment this is a long comment this is a long comment this is a long comment this is a long comment this is a long comment this is a long comment this is a long comment this is a long comment this is a long comment this is a long commentthis is a long comment this is a long comment this is a long comment this is a long comment this is a long comment this is a long comment this is a long comment this is a long commentthis is a long comment this is a long comment this is a long comment this is a long comment this is a long comment this is a long comment this is a long comment this is a long commentthis is a long comment this is a long comment this is a long comment this is a long comment this is a long comment this is a long comment this is a long comment this is a long comment"
+        },
+        {
+            "reviewer": "62834219f39fdd81090b1a32",
+            "rating": 4,
+            "comment": "this really sucks"
+        }
+
+    ],
+    "avg_rating": 1.5
+}

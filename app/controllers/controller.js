@@ -44,6 +44,7 @@ module.exports.getBestSellers = async function (req, res) {
 			}
 		}
 	}]);
+	
 	console.log(update_res.matchedCount);
 	console.log(update_res.modifiedCount);
 	console.log(update_res.acknowledged);

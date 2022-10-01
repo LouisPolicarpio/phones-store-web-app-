@@ -16,6 +16,7 @@
     "circular-json": "^0.5.9",
     "cookie-parser": "^1.4.6",
     "cors": "^2.8.5",
+    "cypress": "^10.8.0",
     "dotenv": "^16.0.0",
     "ejs": "^2.5.9",
     "express": "^4.17.3",
